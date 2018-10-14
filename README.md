@@ -1,0 +1,2 @@
+# The-Algorithm-Project
+Developing an algorithm that utilises a readable dictionary to search from a database of fed online and using file imports. After finding the object, information is matched using set in criteria and displayed to all users and groups. The algo will learn from patterns and user experience to improve results and decrease time to search. Imagine losing your phone at the bus stop and finding it a database fed by the Security organs, administrative organs of a city or just individual users. Ambitious and realizable.
